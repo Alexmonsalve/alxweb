@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+@import "tailwindcss";
+
+body {
+    font-family: "Kaushan Script", serif;
+    font-style: normal;
+    background: #16222A;  /* fallback for old browsers */
+    background: linear-gradient(to right, #3A6073, #16222A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: -webkit-linear-gradient(to right, #3A6073, #2a1c16);  /* Chrome 10-25, Safari 5.1-6 */
+
+    
+} 
