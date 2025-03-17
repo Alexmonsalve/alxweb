@@ -26,7 +26,7 @@ const Hero = () => {
         >
           Soy un diseñador web y gráfico que le mete toda la berraquera a su trabajo. <br /> <br />
           ¿Qué hago? <br />
-          Diseño web: Creo páginas web que no solo sean bonitas, sino que también sean fáciles de usar y que te ayuden a conseguir tus objetivos. Me enfoco en la experiencia del usuario para que tus visitantes se sientan a gusto navegando por tu página. <br /> <br />
+          Diseño web: Creo páginas web que no solo sean bonitas, sino que también sean fáciles de usar y que te ayuden a conseguir tus objetivos. <br /> Me enfoco en la experiencia del usuario para que tus visitantes se sientan a gusto navegando por tu página. <br /> <br />
           Diseño gráfico para redes sociales: Diseño piezas gráficas llamativas y creativas que te ayudarán a destacar en las redes sociales. Creo contenido visual que te ayudará a conectar con tu audiencia y a transmitir tu mensaje de forma efectiva. <br /> <br />
           Creación de contenido: No solo diseño, sino que también te ayudo a crear contenido para tus redes sociales. Escribo textos persuasivos y creo videos atractivos que te ayudarán a aumentar el engagement y a conseguir más seguidores. <br /> <br />
         </motion.p>
