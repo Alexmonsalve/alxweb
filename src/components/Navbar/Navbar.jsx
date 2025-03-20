@@ -7,16 +7,16 @@ const navbarlinks = [
         title:"Home",
         link:"/"
         },
-        {
+       /* {
         id:2,
         title:"Sobre",
         link:""
-        },
-        {
+        },*/
+       /* {
         id:3,
         title:"Servicios",
         link:"#"
-        },
+        },*/
         {
         id:4,
         title:"Contact",
