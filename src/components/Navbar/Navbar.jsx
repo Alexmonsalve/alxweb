@@ -5,7 +5,7 @@ const navbarlinks = [
        {
         id:1,
         title:"Home",
-        link:"/"
+        link:"#"
         },
        /* {
         id:2,
@@ -20,7 +20,7 @@ const navbarlinks = [
         {
         id:4,
         title:"Contact",
-        link:"https://linktr.ee/alexm522"
+        link:"#"
         },
 ]
 
